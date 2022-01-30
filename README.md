@@ -13,7 +13,7 @@
 ![Java](https://img.shields.io/badge/Java-021627?style=for-the-badge&logo=java&logoColor=red)
 
 **Frontend**  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D.svg?style=for-the-badge&logo=vuejs&logoColor=#4FC08D)
+![Vue.js](https://img.shields.io/badge/Vuejs-021627?style=for-the-badge&logo=vue.js&logoColor=#4FC08D)
 ![React.js](https://img.shields.io/badge/Reactjs-021627?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nextjs](https://img.shields.io/badge/Nextjs-021627?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 
