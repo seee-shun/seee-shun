@@ -9,11 +9,13 @@
 **Language**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-021627?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-021627?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![Python](https://img.shields.io/badge/Python-021627?style=for-the-badge&logo=python&logoColor=007ACC)
+![Python](https://img.shields.io/badge/Python-021627?style=for-the-badge&logo=python&logoColor=0477BE)
+![PHP](https://img.shields.io/badge/PHP-021627?style=for-the-badge&logo=php&logoColor=7175AA)
 ![Java](https://img.shields.io/badge/Java-021627?style=for-the-badge&logo=java&logoColor=red)
 
 **Frontend**  
-![Vue.js](https://img.shields.io/badge/Vuejs-021627?style=for-the-badge&logo=vue.js&logoColor=#4FC08D)
+![Vue.js](https://img.shields.io/badge/Vuejs-021627?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxtjs-021627?style=for-the-badge&logo=nuxt.js&logoColor=00DD82)
 ![React.js](https://img.shields.io/badge/Reactjs-021627?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nextjs](https://img.shields.io/badge/Nextjs-021627?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 
@@ -23,6 +25,10 @@
 **Database**  
 ![Firebase](https://img.shields.io/badge/firebase-021627?style=for-the-badge&logo=firebase&logoColor=ffca28)
 ![MySQL](https://img.shields.io/badge/MySQL-021627?style=for-the-badge&logo=mysql&logoColor=005C84)
+
+**Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-021627?style=for-the-badge&logo=amzon aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-021627?style=for-the-badge&logo=google cloud&logoColor=4080ED)
 
 **Ecosystem**    
 ![Babel](https://img.shields.io/badge/Babel-021627?style=for-the-badge&logo=babel&logoColor=F9DC3E)
