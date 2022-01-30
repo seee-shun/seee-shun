@@ -26,8 +26,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-021627?style=for-the-badge&logo=firebase&logoColor=ffca28)
 ![MySQL](https://img.shields.io/badge/MySQL-021627?style=for-the-badge&logo=mysql&logoColor=005C84)
 
-**Infrastructure**
-![AWS](https://img.shields.io/badge/AAWS-021627?style=for-the-badge&logo=amazonaws&logoColor=white)
+**Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-021627?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-021627?style=for-the-badge&logo=googlecloud&logoColor=4080ED)
 
 **Ecosystem**    
