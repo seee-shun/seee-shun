@@ -11,7 +11,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-021627?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/Python-021627?style=for-the-badge&logo=python&logoColor=0477BE)
 ![PHP](https://img.shields.io/badge/PHP-021627?style=for-the-badge&logo=php&logoColor=7175AA)
-![Java](https://img.shields.io/badge/Java-021627?style=for-the-badge&logo=java&logoColor=red)
 
 **Frontend**  
 ![Vue.js](https://img.shields.io/badge/Vuejs-021627?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
