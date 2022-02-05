@@ -15,8 +15,8 @@
 **Frontend**  
 ![Vue.js](https://img.shields.io/badge/Vuejs-021627?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxtjs-021627?style=for-the-badge&logo=nuxt.js&logoColor=00DD82)
-![React.js](https://img.shields.io/badge/Reactjs-021627?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nextjs](https://img.shields.io/badge/Nextjs-021627?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![React.js](https://img.shields.io/badge/React-021627?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Nextjs-021627?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 
 **Backend**  
 ![Express](https://img.shields.io/badge/Express-021627?style=for-the-badge&logo=express&logoColor=white)
