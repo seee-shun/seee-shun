@@ -20,6 +20,7 @@
 
 **Backend**  
 ![Express](https://img.shields.io/badge/Express-021627?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-021627?style=for-the-badge&logo=django&logoColor=0A3928)
 
 **Database**  
 ![Firebase](https://img.shields.io/badge/firebase-021627?style=for-the-badge&logo=firebase&logoColor=ffca28)
